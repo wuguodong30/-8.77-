@@ -1,0 +1,16 @@
+{
+  "ConstructedGameRule": 1,
+  "ConstructedCustomDeck": "核心萨满祭司",
+  "LastDeckId": 1186087647,
+  "AutoGreet": true,
+  "ReleaseLimitW": 144,
+  "ReleaseLimitH": 108,
+  "ReleaseLimit": true,
+  "AutoConcedeAfterConstructedWin": true,
+  "NormalConcede": false,
+  "ForceConcedeAtMulligan": false,
+  "AutoConcedeMinDelayMs": 1500,
+  "AutoConcedeMaxDelayMs": 3000,
+  "SliderShopSpeedRatioText": "1.0",
+  "SliderShopSpeedRatio": 1.0
+}

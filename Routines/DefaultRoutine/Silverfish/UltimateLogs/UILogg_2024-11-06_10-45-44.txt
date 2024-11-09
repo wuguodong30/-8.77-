@@ -1,0 +1,485 @@
+NewGame
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:08 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 1 -100 1 0 1 0
+cut to len 去重从4 到 4
+cut to len 去重从22 到 14
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 3
+bestplay.playactions ################################# START
+打出 幸运币 目标 空
+打出 魔杖工匠(2,2) 目标 空
+bestplay.playactions ################################# END
+calculated 0.3060341
+打出 幸运币 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:11 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+打出 魔杖工匠(2,2) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:16 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变34 33 34 34 0 0 0 0
+minions count or hand changed
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 3
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0280611
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:34 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 2 -100 2 1 2 1
+cut to len 去重从22 到 21
+cut to len 去重从98 到 45
+cut to len 去重从81 到 28
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 5
+bestplay.playactions ################################# START
+打出 图腾重击 目标 驭流骑士(2,-1)
+使用随从 魔杖工匠(2,2) 攻击 女巫的学徒(0,-1)
+bestplay.playactions ################################# END
+calculated 1.1191262
+打出 图腾重击 目标 驭流骑士(2,-1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:39 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变35 34 37 37 0 0 0 0
+ownminions changed
+cut to len 去重从3 到 3
+cut to len 去重从4 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 7
+bestplay.playactions ################################# START
+使用随从 魔杖工匠(2,2) 攻击 女巫的学徒(0,-1)
+bestplay.playactions ################################# END
+calculated 0.1595124
+使用随从 魔杖工匠(2,2) 攻击 女巫的学徒(0,-1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:46:42 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:02 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 3 -100 3 2 3 2
+cut to len 去重从12 到 12
+cut to len 去重从94 到 53
+cut to len 去重从192 到 63
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -20
+bestplay.playactions ################################# START
+使用随从 魔杖工匠(2,1) 攻击 水宝宝鱼人(1,-1)
+打出 火舌图腾(0,3) 目标 空
+bestplay.playactions ################################# END
+calculated 1.166654
+使用随从 魔杖工匠(2,1) 攻击 水宝宝鱼人(1,-1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:05 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+打出 火舌图腾(0,3) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:09 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变36 35 37 37 0 0 0 0
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:35 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 4 -100 4 3 4 3
+cut to len 去重从9 到 9
+cut to len 去重从72 到 38
+cut to len 去重从105 到 31
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -34
+bestplay.playactions ################################# START
+打出 电击学徒(3,2) 目标 空
+打出 火舌图腾(0,3) 目标 空
+bestplay.playactions ################################# END
+calculated 1.0588559
+打出 电击学徒(3,2) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:39 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+资料改变 1 1 1 1 1 0 0 0 True True 0 0
+cut to len 去重从7 到 7
+cut to len 去重从24 到 12
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -34
+bestplay.playactions ################################# START
+打出 火舌图腾(0,3) 目标 空
+bestplay.playactions ################################# END
+calculated 0.3977617
+打出 火舌图腾(0,3) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:47:43 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变36 35 38 38 0 0 0 0
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:11 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 4 -100 5 4 5 4
+cut to len 去重从17 到 16
+cut to len 去重从141 到 60
+cut to len 去重从258 到 69
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -68
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+打出 闪电箭 目标 仙人掌割水工(3,0)
+bestplay.playactions ################################# END
+calculated 1.3474401
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:15 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变36 35 39 39 0 0 0 0
+spellpower changed
+cut to len 去重从18 到 17
+cut to len 去重从58 到 21
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -74
+bestplay.playactions ################################# START
+打出 闪电箭 目标 凶恶的雨云(2,0)
+bestplay.playactions ################################# END
+calculated 0.5524494
+打出 闪电箭 目标 凶恶的雨云(2,0)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:20 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+minions count or hand changed
+cut to len 去重从2 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -74
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0755668
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:47 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 5 -100 6 5 6 5
+cut to len 去重从7 到 7
+cut to len 去重从44 到 25
+cut to len 去重从102 到 32
+cut to len 去重从14 到 5
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -98
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+打出 深渊魔物(5,5) 目标 空
+bestplay.playactions ################################# END
+calculated 1.4780878
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:51 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变37 36 42 42 0 0 0 0
+spellpower changed
+cut to len 去重从6 到 6
+cut to len 去重从28 到 14
+cut to len 去重从14 到 5
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -98
+bestplay.playactions ################################# START
+打出 深渊魔物(5,5) 目标 空
+打出 淤泥之池 目标 空
+bestplay.playactions ################################# END
+calculated 0.5689782
+打出 深渊魔物(5,5) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:55 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+打出 淤泥之池 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:48:59 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+minions count or hand changed
+cut to len 去重从3 到 3
+cut to len 去重从2 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -81
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.1229667
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:49:41 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 7 -100 7 6 7 6
+cut to len 去重从19 到 19
+cut to len 去重从162 到 64
+cut to len 去重从376 到 102
+cut to len 去重从10 到 4
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -126
+bestplay.playactions ################################# START
+打出 妖术 目标 青蛙(0,1)
+使用英雄技能 目标 空
+bestplay.playactions ################################# END
+calculated 1.4014644
+打出 妖术 目标 青蛙(0,1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:49:46 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变40 40 41 42 0 0 0 0
+enemyminions changed
+cut to len 去重从5 到 5
+cut to len 去重从20 到 10
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -126
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+bestplay.playactions ################################# END
+calculated 0.2236202
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:49:49 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变41 40 41 41 0 0 0 0
+spellpower changed
+cut to len 去重从5 到 5
+cut to len 去重从4 到 4
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -109
+bestplay.playactions ################################# START
+打出 先祖知识 目标 空
+bestplay.playactions ################################# END
+calculated 0.1648645
+打出 先祖知识 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:49:52 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+资料改变 2 2 0 0 1 0 0 0 False False 0 0
+cut to len 去重从1 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -109
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0450912
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:50:13 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 7 -100 8 7 8 7
+cut to len 去重从9 到 9
+cut to len 去重从68 到 33
+cut to len 去重从185 到 49
+cut to len 去重从92 到 16
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 20
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+打出 电击学徒(3,2) 目标 空
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 2.0052802
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:50:18 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变42 41 41 41 0 0 0 0
+ownminions changed
+cut to len 去重从9 到 9
+cut to len 去重从56 到 29
+cut to len 去重从65 到 27
+cut to len 去重从10 到 8
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 20
+bestplay.playactions ################################# START
+打出 电击学徒(3,2) 目标 空
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 1.1188774
+打出 电击学徒(3,2) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:50:23 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+资料改变 1 1 1 1 1 0 1 1 False False 0 0
+cut to len 去重从7 到 7
+cut to len 去重从22 到 12
+cut to len 去重从6 到 6
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 20
+bestplay.playactions ################################# START
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 0.4010022
+打出 闪电风暴 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:50:27 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+资料改变 2 2 1 1 2 3 1 1 False False 0 0
+cut to len 去重从3 到 3
+cut to len 去重从4 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 20
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.1778762
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:50:58 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 7 -100 9 8 9 8
+cut to len 去重从10 到 10
+cut to len 去重从73 到 37
+cut to len 去重从178 到 74
+cut to len 去重从84 到 53
+cut to len 去重从8 到 7
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -90
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+打出 凶恶的雨云(2,3) 目标 空
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 1.4310703
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:51:02 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变43 42 44 44 0 0 0 0
+ownminions changed
+cut to len 去重从9 到 9
+cut to len 去重从56 到 26
+cut to len 去重从36 到 22
+cut to len 去重从4 到 4
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -90
+bestplay.playactions ################################# START
+打出 凶恶的雨云(2,3) 目标 空
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 0.8691145
+打出 凶恶的雨云(2,3) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:51:08 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变44 43 44 44 0 0 0 0
+handcard changed: walkingmountain
+cut to len 去重从7 到 7
+cut to len 去重从14 到 9
+cut to len 去重从3 到 3
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -95
+bestplay.playactions ################################# START
+打出 闪电风暴 目标 空
+bestplay.playactions ################################# END
+calculated 0.2983434
+打出 闪电风暴 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:51:13 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+资料改变 2 2 1 1 3 4 2 2 False False 0 0
+cut to len 去重从1 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -95
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0580452
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:51:53 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 7 -100 10 9 10 9
+cut to len 去重从14 到 14
+cut to len 去重从109 到 68
+cut to len 去重从274 到 126
+cut to len 去重从174 到 88
+cut to len 去重从28 到 28
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -5698
+bestplay.playactions ################################# START
+使用随从 凶恶的雨云(2,-5) 攻击 模塑鱼人宝宝(8,-1)
+使用英雄技能 目标 空
+bestplay.playactions ################################# END
+calculated 2.1036421
+使用随从 凶恶的雨云(2,-5) 攻击 模塑鱼人宝宝(8,-1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:51:58 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 10:52:00 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变45 44 51 51 0 0 0 0
+ownminions changed
+cut to len 去重从5 到 5
+cut to len 去重从12 到 7
+cut to len 去重从3 到 3
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board -5729
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.2774293

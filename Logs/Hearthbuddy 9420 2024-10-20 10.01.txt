@@ -1,0 +1,15 @@
+2024-10-20 02:01:41,138 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: C:\Users\<Username>\Downloads\8.77破解版中控未破解\HearthScript_V8.7.7_3\<ExeName>
+
+OS Name: Microsoft Windows 11 专业版
+OS Version: 10.0.22631
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-10-20 02:01:41,151 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-10-20 02:01:41,152 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-10-20 02:01:41,152 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-10-20 02:01:41,152 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-10-20 02:01:41,157 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.

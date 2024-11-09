@@ -1,0 +1,2501 @@
+2024-11-06 02:44:27,373 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: D:\jb\lscs\HearthScript_V8.7.7_3\<ExeName>
+
+OS Name: Microsoft Windows 11 专业版
+OS Version: 10.0.22631
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-11-06 02:44:27,398 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-11-06 02:44:27,399 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-11-06 02:44:27,399 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-11-06 02:44:27,400 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-11-06 02:44:27,404 [1] ERROR Logger (null) - [中控设置] 手动设置操作系统 = Windows10.
+2024-11-06 02:44:27,736 [1] INFO  Logger (null) - Prerequisite check complete!
+2024-11-06 02:44:27,791 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2024-11-06 02:44:27,811 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2024-11-06 02:44:27,814 [1] INFO  Logger (null) - [AuthRegion] China.
+2024-11-06 02:44:28,011 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2024-11-06 02:44:28,011 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
+2024-11-06 02:44:28,031 [1] INFO  Logger (null) - Hearthbuddy [0.0.0.0] is up to date!
+2024-11-06 02:44:28,326 [1] INFO  Logger (null) - 检测到炉石进程！
+2024-11-06 02:44:28,887 [8] INFO  Logger (null) - 绑定到炉石进程！
+2024-11-06 02:44:28,929 [8] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-11-06 02:44:28,931 [8] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2024-11-06 02:44:28,931 [8] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-11-06 02:44:28,931 [8] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = True.
+2024-11-06 02:44:28,932 [8] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:28,932 [8] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:28,933 [8] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:28,934 [8] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-11-06 02:44:28,935 [8] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-11-06 02:44:28,935 [8] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-11-06 02:44:28,936 [8] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-11-06 02:44:28,936 [8] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-11-06 02:44:28,937 [8] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-11-06 02:44:28,937 [8] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-11-06 02:44:28,956 [8] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-11-06 02:44:28,957 [8] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 元素萨.
+2024-11-06 02:44:28,957 [8] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = True.
+2024-11-06 02:44:28,958 [8] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:28,958 [8] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:28,958 [8] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:28,958 [8] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-11-06 02:44:28,958 [8] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-11-06 02:44:28,959 [8] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-11-06 02:44:28,959 [8] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-11-06 02:44:28,959 [8] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-11-06 02:44:28,959 [8] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-11-06 02:44:28,980 [1] DEBUG Logger (null) - Current bot set to 天梯脚本.
+2024-11-06 02:44:37,916 [8] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:37,918 [8] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2024-11-06 02:44:37,919 [8] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-11-06 02:44:37,919 [8] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-11-06 02:44:37,920 [8] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-11-06 02:44:37,920 [8] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-11-06 02:44:37,921 [8] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-11-06 02:44:37,921 [8] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-11-06 02:44:37,922 [8] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-11-06 02:44:37,922 [8] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-11-06 02:44:37,923 [8] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-11-06 02:44:37,927 [8] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:37,928 [8] INFO  Logger (null) - [默认策略设置] AI值 = 300.
+2024-11-06 02:44:37,928 [8] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-11-06 02:44:37,928 [8] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-11-06 02:44:37,928 [8] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-11-06 02:44:37,929 [8] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-11-06 02:44:37,929 [8] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-11-06 02:44:37,929 [8] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-11-06 02:44:37,929 [8] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-11-06 02:44:37,930 [8] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-11-06 02:44:37,930 [8] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-11-06 02:44:38,450 [1] DEBUG Logger (null) - Current routine set to 天梯策略.
+2024-11-06 02:44:38,461 [8] DEBUG Logger (null) - [自动停止插件] 初始化
+2024-11-06 02:44:38,471 [8] DEBUG Logger (null) - [监控插件] 初始化
+2024-11-06 02:44:38,499 [8] DEBUG Logger (null) - [统计插件] 初始化
+2024-11-06 02:44:38,512 [8] DEBUG Logger (null) - [任务插件] 初始化
+2024-11-06 02:44:38,519 [8] DEBUG Logger (null) - [自动停止插件] 启用
+2024-11-06 02:44:38,554 [8] DEBUG Logger (null) - [监控插件] 启用
+2024-11-06 02:44:38,589 [8] DEBUG Logger (null) - [统计插件] 启用
+2024-11-06 02:44:38,618 [8] DEBUG Logger (null) - [任务插件] 启用
+2024-11-06 02:44:38,725 [8] ERROR Logger (null) - 炉石兄弟V8.7.7--[2024-10-10]--琴弦上的宇宙+Bald9
+2024-11-06 02:44:38,789 [8] INFO  Logger (null) - [Start] Now creating the BotThread.
+2024-11-06 02:44:41,847 [BotThread] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-11-06 02:44:41,847 [BotThread] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2024-11-06 02:44:41,847 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-11-06 02:44:41,847 [BotThread] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = True.
+2024-11-06 02:44:41,847 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:41,849 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:41,849 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:41,850 [BotThread] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-11-06 02:44:41,850 [BotThread] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-11-06 02:44:41,850 [BotThread] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-11-06 02:44:41,850 [BotThread] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-11-06 02:44:41,850 [BotThread] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-11-06 02:44:41,851 [BotThread] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-11-06 02:44:41,851 [BotThread] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-11-06 02:44:41,851 [BotThread] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-11-06 02:44:41,851 [BotThread] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 核心萨满祭司.
+2024-11-06 02:44:41,852 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = True.
+2024-11-06 02:44:41,852 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:41,853 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:41,853 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:41,855 [BotThread] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = True.
+2024-11-06 02:44:41,855 [BotThread] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-11-06 02:44:41,855 [BotThread] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-11-06 02:44:41,856 [BotThread] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-11-06 02:44:41,856 [BotThread] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-11-06 02:44:41,856 [BotThread] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-11-06 02:44:41,856 [BotThread] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-11-06 02:44:41,856 [BotThread] ERROR Logger (null) - [中控设置] 传统对战模式 = 狂野.
+2024-11-06 02:44:41,856 [BotThread] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 核心萨满祭司.
+2024-11-06 02:44:41,857 [BotThread] ERROR Logger (null) - [中控设置] 对战卡组名称 = 核心萨满祭司.
+2024-11-06 02:44:41,857 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:41,857 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:41,858 [BotThread] ERROR Logger (null) - [中控设置] 炉石窗口宽度 = 144.
+2024-11-06 02:44:41,858 [BotThread] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-11-06 02:44:41,858 [BotThread] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:41,858 [BotThread] ERROR Logger (null) - [中控设置] 炉石窗口高度 = 108.
+2024-11-06 02:44:41,866 [BotThread] DEBUG Logger (null) - [自动停止插件] 开启
+2024-11-06 02:44:41,867 [BotThread] DEBUG Logger (null) - [监控插件] 开启
+2024-11-06 02:44:41,904 [BotThread] DEBUG Logger (null) - [统计插件] 开启
+2024-11-06 02:44:41,904 [1] INFO  Logger (null) - [监控插件] 合计: 战令19级(149/450)(500/小时) 狂野青铜8 2星 2/5(胜40.00%) [0投] 
+2024-11-06 02:44:41,929 [BotThread] DEBUG Logger (null) - [任务插件] 开启
+2024-11-06 02:44:41,935 [BotThread] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:41,935 [BotThread] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2024-11-06 02:44:41,935 [BotThread] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-11-06 02:44:41,936 [BotThread] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-11-06 02:44:41,937 [BotThread] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-11-06 02:44:41,938 [BotThread] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:41,938 [BotThread] ERROR Logger (null) - [中控设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-11-06 02:44:42,124 [BotThread] INFO  Logger (null) - [主菜单]
+2024-11-06 02:44:42,137 [BotThread] DEBUG Logger (null) - [主菜单] 检测到异常情况，将随机点击(X=76,Y=79)处理...
+2024-11-06 02:44:44,933 [BotThread] INFO  Logger (null) - [主菜单]
+2024-11-06 02:44:44,936 [BotThread] DEBUG Logger (null) - [主菜单] 检测到异常情况，将随机点击(X=267,Y=283)处理...
+2024-11-06 02:44:47,686 [BotThread] INFO  Logger (null) - [主菜单]
+2024-11-06 02:44:47,690 [BotThread] DEBUG Logger (null) - [主菜单] 检测到异常情况，将随机点击(X=266,Y=351)处理...
+2024-11-06 02:44:50,435 [BotThread] INFO  Logger (null) - [主菜单]
+2024-11-06 02:44:50,439 [BotThread] INFO  Logger (null) - [主菜单] 需要缓存卡组，现在点击"收藏"按钮.
+2024-11-06 02:44:53,311 [BotThread] INFO  Logger (null) - [我的收藏]
+2024-11-06 02:44:53,317 [BotThread] INFO  Logger (null) - [卡组缓存]
+2024-11-06 02:44:53,331 [BotThread] DEBUG Logger (null) - [卡组缓存] 正在处理，请稍等.
+2024-11-06 02:44:54,957 [BotThread] INFO  Logger (null) - [我的收藏]
+2024-11-06 02:44:54,959 [BotThread] INFO  Logger (null) - [卡组缓存]
+2024-11-06 02:44:55,109 [BotThread] INFO  Logger (null) - [卡组缓存] 卡组之前已保存.
+2024-11-06 02:44:55,138 [BotThread] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = False.
+2024-11-06 02:44:55,177 [BotThread] INFO  Logger (null) - [我的收藏]
+2024-11-06 02:44:55,180 [BotThread] INFO  Logger (null) - [卡组缓存]
+2024-11-06 02:44:55,182 [BotThread] DEBUG Logger (null) - [卡组缓存] 正在处理，请稍等.
+2024-11-06 02:44:57,101 [BotThread] INFO  Logger (null) - [我的收藏]
+2024-11-06 02:44:57,104 [BotThread] INFO  Logger (null) - [卡组缓存]
+2024-11-06 02:44:57,107 [BotThread] INFO  Logger (null) - [卡组缓存] 缓存卡组已完成，现在离开"收藏"界面.
+2024-11-06 02:44:59,031 [BotThread] INFO  Logger (null) - [主菜单]
+2024-11-06 02:44:59,034 [BotThread] INFO  Logger (null) - [主菜单] 现在点击"传统对战"按钮.
+2024-11-06 02:45:01,897 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 02:45:01,906 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 02:45:05,333 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 02:45:05,378 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 02:45:09,675 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:45:11,737 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:45:13,834 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:45:15,918 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:45:21,589 [BotThread] INFO  Logger (null) - [游戏开局前]
+2024-11-06 02:45:29,260 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:30,267 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:31,299 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:32,314 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:33,327 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:34,342 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:45:34,790 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:35,821 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:36,836 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:37,850 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:38,868 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:39,914 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:41,930 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:43,008 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:45:44,079 [BotThread] INFO  Logger (null) - [日志档案:] 开始创建
+2024-11-06 02:45:44,079 [BotThread] INFO  Logger (null) - [日志档案:] 创建完成
+2024-11-06 02:45:45,305 [BotThread] INFO  Logger (null) - [开局留牌] SHAMAN 对阵 SHAMAN.
+2024-11-06 02:45:45,309 [BotThread] INFO  Logger (null) - [开局留牌] 应用这个 丨通用丨不设惩罚 规则:
+2024-11-06 02:45:45,311 [BotThread] INFO  Logger (null) - [开局留牌] 火舌图腾 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2024-11-06 02:45:45,311 [BotThread] INFO  Logger (null) - [开局留牌] 魔杖工匠 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2024-11-06 02:45:45,311 [BotThread] INFO  Logger (null) - [开局留牌] 淤泥之池 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 02:45:45,311 [BotThread] INFO  Logger (null) - [开局留牌] 先祖知识 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2024-11-06 02:45:45,313 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_EX1_565 时间已经过去 231 毫秒.
+2024-11-06 02:45:45,779 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_REV_923 时间已经过去 0 毫秒.
+2024-11-06 02:45:45,779 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_AT_053 时间已经过去 324 毫秒.
+2024-11-06 02:45:46,305 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_SCH_160 时间已经过去 552 毫秒.
+2024-11-06 02:45:47,088 [BotThread] INFO  Logger (null) - [对战准备] 准备完成.
+2024-11-06 02:45:47,089 [BotThread] INFO  Logger (null) - [游戏开始时]
+2024-11-06 02:45:55,695 [BotThread] INFO  Logger (null) - [战斗中] 准备自动打招呼...
+2024-11-06 02:45:55,700 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:45:56,743 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:45:57,818 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:02,460 [BotThread] INFO  Logger (null) - [自动打招呼] 表情未显示，先弹出表情选项.
+2024-11-06 02:46:03,707 [BotThread] INFO  Logger (null) - [自动打招呼] 现在选择表情 GREETINGS.
+2024-11-06 02:46:03,716 [BotThread] INFO  Logger (null) - [自动打招呼] 现在使用表情 问候.
+2024-11-06 02:46:04,973 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:06,000 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:07,021 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:09,362 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 119 毫秒.
+2024-11-06 02:46:11,894 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:46:17,249 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:19,117 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:20,151 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:21,242 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:24,818 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:29,575 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:30,833 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:31,145 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:32,164 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:33,194 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:36,136 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 124 毫秒.
+2024-11-06 02:46:43,158 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:45,040 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:46,109 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:47,138 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:50,417 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:46:56,949 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:58,192 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:46:58,812 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:46:59,845 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:47:00,880 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:47:06,149 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:47:10,233 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:47:12,128 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:13,183 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:14,211 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:15,281 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:18,621 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:19,684 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:25,392 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:30,358 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:47:31,586 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:47:32,204 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:47:33,231 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:47:34,260 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:47:37,203 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 125 毫秒.
+2024-11-06 02:47:40,883 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:47:44,835 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:47:46,723 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:47,786 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:48,806 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:50,522 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:52,383 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:47:53,411 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:48:06,196 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:48:07,424 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:48:07,764 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:08,793 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:09,814 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:16,255 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 109 毫秒.
+2024-11-06 02:48:21,672 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:48:23,484 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:48:24,547 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:48:25,589 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:48:33,722 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:48:42,790 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:48:44,035 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:48:44,346 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:45,373 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:46,394 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:48:52,963 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 110 毫秒.
+2024-11-06 02:48:56,497 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 02:49:00,548 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:49:02,358 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:03,400 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:04,455 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:07,810 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:08,823 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:09,837 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:10,900 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:11,947 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:17,017 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:22,690 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:23,696 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:24,697 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:26,789 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:36,410 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:49:37,697 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:49:38,002 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:49:39,039 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:49:40,058 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:49:43,390 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 02:49:49,890 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 02:49:53,141 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:49:54,972 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:55,986 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:57,049 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:58,090 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:49:59,160 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:00,237 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:05,959 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:07,828 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:50:09,043 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:50:09,993 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:50:11,018 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:50:12,044 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:50:19,951 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 02:50:24,090 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 02:50:29,084 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:50:30,097 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:31,145 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:32,221 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:33,300 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:34,366 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:35,423 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:40,173 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:41,179 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:42,227 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:43,290 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:44,359 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:49,811 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:50:55,062 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:50:56,089 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:50:57,118 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:51:04,157 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:51:09,685 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 02:51:14,477 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:51:17,178 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:18,219 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:19,275 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:20,343 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:21,419 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:22,484 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:23,553 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:24,622 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:35,420 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:44,600 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:47,017 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:51:48,414 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:51:49,669 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:51:50,275 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:51:51,302 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:51:52,330 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:52:02,279 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:52:04,955 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:05,994 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:07,037 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:09,244 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:10,300 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:13,814 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:52:18,870 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 02:52:19,896 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 02:52:20,918 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 02:52:21,947 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 02:52:22,967 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 02:52:23,455 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:24,523 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:25,579 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:26,654 [BotThread] INFO  Logger (null) - [游戏结束后]
+2024-11-06 02:52:26,654 [BotThread] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-11-06 02:52:26,655 [BotThread] INFO  Logger (null) - [游戏结束后] 已取消下局立即投降，因为我们本局输了，并且设置了保持排名(赢1投1).
+2024-11-06 02:52:26,670 [1] INFO  Logger (null) - [监控插件] 合计: 战令19级(185/450)(500/小时) 狂野青铜8 2星 2/6(胜33.33%) [0投] 
+2024-11-06 02:52:26,671 [BotThread] INFO  Logger (null) - [游戏结束] Defeat => PLAY_RANKED_WILD.
+2024-11-06 02:52:26,702 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 02:52:29,521 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:30,577 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:31,640 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 02:52:32,736 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 02:52:36,954 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 02:52:36,958 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 02:52:40,386 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 02:52:40,391 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 02:52:44,692 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:46,762 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:48,845 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:50,895 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:52,963 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:55,011 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:57,088 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:52:59,137 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:00,961 [BotThread] INFO  Logger (null) - [HandleDialogs] A dialog of type AlertPopup is showing.
+2024-11-06 02:53:00,964 [BotThread] INFO  Logger (null) - [HandleDialogs] 选取的套牌无法应用于该游戏模式。.
+2024-11-06 02:53:00,967 [BotThread] INFO  Logger (null) - [HandleDialogs] Now clicking on the "OK" button.
+2024-11-06 02:53:04,137 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 02:53:04,141 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 02:53:07,558 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 02:53:07,562 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 02:53:11,871 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:13,954 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:16,038 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:18,108 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:20,182 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:22,239 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:24,287 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:26,356 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:28,419 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:30,488 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 02:53:35,966 [BotThread] INFO  Logger (null) - [游戏开局前]
+2024-11-06 02:53:43,447 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:44,480 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:45,511 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:46,530 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:47,558 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:48,586 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 02:53:49,051 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:50,071 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:51,107 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:52,133 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:53,162 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:54,183 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:56,065 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:57,114 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 02:53:58,183 [BotThread] INFO  Logger (null) - [日志档案:] 开始创建
+2024-11-06 02:53:58,183 [BotThread] INFO  Logger (null) - [日志档案:] 创建完成
+2024-11-06 02:53:58,302 [BotThread] INFO  Logger (null) - [开局留牌] SHAMAN 对阵 MAGE.
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 应用这个 丨通用丨不设惩罚 规则:
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 火元素 弃掉这些卡牌因为法力值消耗:6 没有小于预定值:4.
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 闪电箭 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 先祖知识 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 淤泥之池 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 02:53:58,303 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_REV_923 时间已经过去 648 毫秒.
+2024-11-06 02:53:59,168 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_EX1_238 时间已经过去 670 毫秒.
+2024-11-06 02:54:00,043 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_AT_053 时间已经过去 786 毫秒.
+2024-11-06 02:54:01,048 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_CS2_042 时间已经过去 520 毫秒.
+2024-11-06 02:54:01,807 [BotThread] INFO  Logger (null) - [对战准备] 弃掉 CORE_CS2_042.
+2024-11-06 02:54:03,015 [BotThread] INFO  Logger (null) - [对战准备] 准备完成.
+2024-11-06 02:54:03,015 [BotThread] INFO  Logger (null) - [游戏开始时]
+2024-11-06 02:54:12,058 [BotThread] INFO  Logger (null) - [战斗中] 准备自动打招呼...
+2024-11-06 02:54:12,059 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:13,126 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:14,181 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:15,077 [BotThread] INFO  Logger (null) - [自动打招呼] 表情未显示，先弹出表情选项.
+2024-11-06 02:54:16,633 [BotThread] INFO  Logger (null) - [自动打招呼] 现在选择表情 GREETINGS.
+2024-11-06 02:54:16,638 [BotThread] INFO  Logger (null) - [自动打招呼] 现在使用表情 问候.
+2024-11-06 02:54:17,899 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:54:18,501 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:19,529 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:20,557 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:23,125 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 111 毫秒.
+2024-11-06 02:54:28,757 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:54:30,577 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:31,652 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:32,709 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:33,777 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:34,812 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:35,868 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:36,909 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:37,961 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:39,015 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:43,036 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:44,083 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:47,410 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:54:48,805 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:54:50,015 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:54:50,653 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:51,680 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:52,708 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:54:54,969 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 122 毫秒.
+2024-11-06 02:54:59,708 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:01,631 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:02,680 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:03,735 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:04,805 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:05,874 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:06,929 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:07,970 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:10,437 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:11,491 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:19,852 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:20,859 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:22,172 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:22,776 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:55:23,797 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:55:24,824 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:55:29,901 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:31,726 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:32,762 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:33,823 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:34,844 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:35,899 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:36,949 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:38,018 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:39,079 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:40,149 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:41,227 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:42,232 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:46,455 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:49,074 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:50,150 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:52,025 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:53,100 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:55:53,260 [BotThread] INFO  Logger (null) - [游戏战斗] MAIN_START.
+2024-11-06 02:55:54,121 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:55,400 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:55:56,024 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:55:57,054 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:55:58,080 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:56:00,613 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:56:05,391 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:56:07,254 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:08,321 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:09,336 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:10,391 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:11,418 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:12,476 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:13,524 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:14,591 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:18,828 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:19,885 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:20,973 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:22,025 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:23,064 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:28,093 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:56:29,343 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:56:29,670 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:56:30,689 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:56:31,717 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:56:34,571 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 02:56:38,966 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 132 毫秒.
+2024-11-06 02:56:43,008 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:56:44,923 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:45,944 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:47,016 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:48,084 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:49,153 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:50,210 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:51,215 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:52,279 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:53,313 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:57,160 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:58,187 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:56:59,236 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:06,112 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:07,165 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:09,110 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:10,172 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:11,234 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:14,778 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:16,174 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:57:17,408 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:57:18,054 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:57:19,083 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:57:20,111 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:57:25,985 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 02:57:30,040 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:57:31,906 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:32,971 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:34,026 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:35,075 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:36,144 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:37,214 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:38,303 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:39,359 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:40,415 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:48,700 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:49,713 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:50,782 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:52,616 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:53,691 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:54,725 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:56,531 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:57,546 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:57:59,630 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:00,705 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:01,769 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:58:03,011 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:58:03,637 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:58:04,656 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:58:05,691 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:58:09,793 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 02:58:13,607 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 104 毫秒.
+2024-11-06 02:58:18,482 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:58:20,439 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:21,446 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:22,508 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:23,551 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:24,619 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:25,681 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:26,752 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:27,772 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:28,869 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:32,989 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:34,023 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:37,473 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:38,515 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:39,605 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:41,258 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:42,320 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:46,355 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:48,931 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:49,979 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:51,064 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:52,806 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:53,877 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:55,910 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:56,971 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:58:57,995 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:58:59,237 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:58:59,841 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:59:00,870 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:59:01,911 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 02:59:06,821 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 127 毫秒.
+2024-11-06 02:59:10,638 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 02:59:12,534 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:13,576 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:14,659 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:15,673 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:16,742 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:17,797 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:18,839 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:19,913 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:20,958 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:21,991 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:23,025 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:24,068 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:26,556 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:27,618 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:31,768 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:32,838 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:33,906 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:34,978 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:41,594 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:42,651 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:43,686 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:46,274 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:47,326 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:48,379 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:49,428 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:50,484 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 02:59:55,345 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:00,741 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:00:02,011 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:00:02,615 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:00:03,635 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:00:04,664 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:00:11,280 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 03:00:17,828 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 103 毫秒.
+2024-11-06 03:00:23,357 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 125 毫秒.
+2024-11-06 03:00:27,009 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:00:30,398 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:00:32,300 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:33,371 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:34,446 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:35,459 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:36,543 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:37,620 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:38,660 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:39,703 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:40,705 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:41,780 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:42,816 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:43,869 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:44,931 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:46,953 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:48,023 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:49,030 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:00:50,765 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:00:51,793 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:00:52,815 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:00:53,835 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:00:54,854 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:00:55,470 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:00:56,549 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:00:57,591 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:00:58,668 [BotThread] INFO  Logger (null) - [游戏结束后]
+2024-11-06 03:00:58,668 [BotThread] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-11-06 03:00:58,668 [BotThread] INFO  Logger (null) - [游戏结束后] 已取消下局立即投降，因为我们本局输了，并且设置了保持排名(赢1投1).
+2024-11-06 03:00:58,682 [BotThread] INFO  Logger (null) - [游戏结束] Defeat => PLAY_RANKED_WILD.
+2024-11-06 03:00:58,682 [1] INFO  Logger (null) - [监控插件] 合计: 战令24级(523/675)(500/小时) 狂野青铜8 2星 2/7(胜28.57%) [0投] 
+2024-11-06 03:00:58,722 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 03:01:01,515 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:02,597 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:03,661 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:04,771 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 03:01:07,542 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:08,612 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:09,688 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:01:10,770 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 03:01:14,951 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 03:01:14,956 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 03:01:18,408 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 03:01:18,412 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 03:01:22,727 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:24,803 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:26,887 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:28,928 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:30,991 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:33,053 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:35,109 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:37,157 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:39,219 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:41,295 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:43,365 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:45,449 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:01:51,253 [BotThread] INFO  Logger (null) - [游戏开局前]
+2024-11-06 03:01:58,747 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:01:59,769 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:02:00,796 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:02:01,824 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:02:02,611 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:03,643 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:04,663 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:05,685 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:06,713 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:07,732 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:09,636 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:10,706 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:11,768 [BotThread] INFO  Logger (null) - [日志档案:] 开始创建
+2024-11-06 03:02:11,768 [BotThread] INFO  Logger (null) - [日志档案:] 创建完成
+2024-11-06 03:02:11,875 [BotThread] INFO  Logger (null) - [开局留牌] SHAMAN 对阵 WARRIOR.
+2024-11-06 03:02:11,875 [BotThread] INFO  Logger (null) - [开局留牌] 应用这个 丨通用丨不设惩罚 规则:
+2024-11-06 03:02:11,875 [BotThread] INFO  Logger (null) - [开局留牌] 火羽精灵 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 03:02:11,876 [BotThread] INFO  Logger (null) - [开局留牌] 空气元素 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 03:02:11,876 [BotThread] INFO  Logger (null) - [开局留牌] 野性狼魂 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2024-11-06 03:02:11,876 [BotThread] INFO  Logger (null) - [开局留牌] 淤泥之池 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 03:02:11,876 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_UNG_809 时间已经过去 229 毫秒.
+2024-11-06 03:02:12,300 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_EX1_248 时间已经过去 369 毫秒.
+2024-11-06 03:02:12,884 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 Core_UNG_019 时间已经过去 0 毫秒.
+2024-11-06 03:02:12,884 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_REV_923 时间已经过去 640 毫秒.
+2024-11-06 03:02:13,767 [BotThread] INFO  Logger (null) - [对战准备] 准备完成.
+2024-11-06 03:02:13,767 [BotThread] INFO  Logger (null) - [游戏开始时]
+2024-11-06 03:02:16,517 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:17,546 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:18,567 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:19,594 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:20,615 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:21,635 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:22,661 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:23,690 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:24,711 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:25,739 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:26,767 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:27,787 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:28,802 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:29,835 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:30,850 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:31,884 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:32,905 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:33,925 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:02:40,466 [BotThread] INFO  Logger (null) - [战斗中] 准备自动打招呼...
+2024-11-06 03:02:40,468 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:02:41,523 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:02:42,584 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:02:43,488 [BotThread] INFO  Logger (null) - [自动打招呼] 表情未显示，先弹出表情选项.
+2024-11-06 03:02:44,585 [BotThread] INFO  Logger (null) - [自动打招呼] 现在选择表情 GREETINGS.
+2024-11-06 03:02:44,590 [BotThread] INFO  Logger (null) - [自动打招呼] 现在使用表情 问候.
+2024-11-06 03:02:45,841 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:02:46,148 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:02:47,168 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:02:48,196 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:02:50,793 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 03:02:53,383 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 110 毫秒.
+2024-11-06 03:02:57,730 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:03:01,807 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:03,612 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:04,682 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:05,750 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:10,898 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:12,111 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:12,744 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:13,772 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:14,792 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:26,612 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:28,437 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:29,464 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:30,535 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:31,556 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:32,624 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:33,694 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:03:40,564 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:41,805 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:03:42,096 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:43,124 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:44,153 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:03:47,984 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:03:51,567 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:04:02,997 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:04,859 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:05,913 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:06,949 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:11,985 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:13,194 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:13,816 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:14,837 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:15,865 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:18,121 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:04:22,928 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:24,851 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:25,913 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:26,983 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:36,545 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:37,830 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:38,461 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:39,469 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:40,503 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:04:43,218 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:04:51,232 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:04:53,044 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:54,091 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:04:55,148 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:11,308 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:05:12,577 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:05:13,230 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:14,251 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:15,279 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:21,371 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:05:23,243 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:24,277 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:25,319 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:26,396 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:31,912 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:32,980 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:34,043 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:35,118 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:05:46,161 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:05:47,381 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:05:48,353 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:49,375 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:50,395 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:05:59,206 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 123 毫秒.
+2024-11-06 03:06:03,485 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 03:06:08,562 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:06:10,408 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:11,470 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:12,512 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:16,879 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:06:18,088 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:06:18,726 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:06:19,748 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:06:20,769 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:06:25,427 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 03:06:34,316 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:06:36,983 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:38,051 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:39,060 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:40,103 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:06:41,158 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:01,212 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:07:02,441 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:07:02,767 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:07:03,793 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:07:04,816 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:07:11,189 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:07:14,093 [BotThread] INFO  Logger (null) - 瞄准中...
+2024-11-06 03:07:19,037 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:07:20,869 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:21,952 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:23,021 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:37,327 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:38,370 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:40,792 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:43,432 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:45,605 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:46,619 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:07:59,569 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:08:00,798 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:08:01,403 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:08:02,430 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:08:03,458 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:08:17,498 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 111 毫秒.
+2024-11-06 03:08:22,047 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 03:08:26,185 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 104 毫秒.
+2024-11-06 03:08:30,031 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:08:33,656 [BotThread] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2024-11-06 03:08:35,970 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:08:37,818 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:08:38,859 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:08:49,823 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:08:50,851 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:08:51,871 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:08:52,901 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:08:53,927 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:08:54,413 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:08:55,469 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:08:56,551 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:08:57,601 [BotThread] INFO  Logger (null) - [游戏结束后]
+2024-11-06 03:08:57,601 [BotThread] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-11-06 03:08:57,601 [BotThread] INFO  Logger (null) - [游戏结束后] 已取消下局立即投降，因为我们本局输了，并且设置了保持排名(赢1投1).
+2024-11-06 03:08:57,614 [BotThread] INFO  Logger (null) - [游戏结束] Defeat => PLAY_RANKED_WILD.
+2024-11-06 03:08:57,615 [1] INFO  Logger (null) - [监控插件] 合计: 战令24级(557/675)(500/小时) 狂野青铜8 2星 2/8(胜25.00%) [0投] 
+2024-11-06 03:08:57,648 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 03:09:00,463 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:09:01,516 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:09:02,572 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:09:03,670 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [失败]，点击继续...
+2024-11-06 03:09:07,906 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 03:09:07,911 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 03:09:11,312 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 03:09:11,318 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 03:09:15,634 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:17,736 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:19,820 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:21,918 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:23,966 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:26,013 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:28,084 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:30,152 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:32,250 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:34,340 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:36,411 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:38,479 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:40,562 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:09:45,754 [BotThread] INFO  Logger (null) - [游戏开局前]
+2024-11-06 03:09:55,042 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:09:56,077 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:09:57,098 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:09:58,125 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:09:59,152 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:09:59,525 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:00,553 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:01,583 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:02,604 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:03,632 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:04,658 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:06,557 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:07,630 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:08,687 [BotThread] INFO  Logger (null) - [日志档案:] 开始创建
+2024-11-06 03:10:08,687 [BotThread] INFO  Logger (null) - [日志档案:] 创建完成
+2024-11-06 03:10:08,810 [BotThread] INFO  Logger (null) - [开局留牌] SHAMAN 对阵 MAGE.
+2024-11-06 03:10:08,810 [BotThread] INFO  Logger (null) - [开局留牌] 应用这个 丨通用丨不设惩罚 规则:
+2024-11-06 03:10:08,811 [BotThread] INFO  Logger (null) - [开局留牌] 空气元素 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 03:10:08,811 [BotThread] INFO  Logger (null) - [开局留牌] 深渊魔物 弃掉这些卡牌因为法力值消耗:6 没有小于预定值:4.
+2024-11-06 03:10:08,811 [BotThread] INFO  Logger (null) - [开局留牌] 闪电箭 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2024-11-06 03:10:08,811 [BotThread] INFO  Logger (null) - [开局留牌] 先祖知识 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2024-11-06 03:10:08,811 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 Core_UNG_019 时间已经过去 362 毫秒.
+2024-11-06 03:10:09,379 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_EX1_238 时间已经过去 305 毫秒.
+2024-11-06 03:10:09,901 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_OG_028 时间已经过去 543 毫秒.
+2024-11-06 03:10:10,651 [BotThread] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CORE_AT_053 时间已经过去 689 毫秒.
+2024-11-06 03:10:11,567 [BotThread] INFO  Logger (null) - [对战准备] 弃掉 CORE_OG_028.
+2024-11-06 03:10:12,784 [BotThread] INFO  Logger (null) - [对战准备] 准备完成.
+2024-11-06 03:10:12,784 [BotThread] INFO  Logger (null) - [游戏开始时]
+2024-11-06 03:10:14,769 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:15,790 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:16,826 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:17,853 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:10:23,386 [BotThread] INFO  Logger (null) - [战斗中] 准备自动打招呼...
+2024-11-06 03:10:23,387 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:24,450 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:25,519 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:26,415 [BotThread] INFO  Logger (null) - [自动打招呼] 表情未显示，先弹出表情选项.
+2024-11-06 03:10:27,657 [BotThread] INFO  Logger (null) - [自动打招呼] 现在选择表情 GREETINGS.
+2024-11-06 03:10:27,661 [BotThread] INFO  Logger (null) - [自动打招呼] 现在使用表情 问候.
+2024-11-06 03:10:28,913 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:29,969 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:31,033 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:32,109 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:33,116 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:34,171 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:35,248 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:36,296 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:37,351 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:38,386 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:43,623 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:44,685 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:10:45,754 [BotThread] INFO  Logger (null) - [游戏战斗] MAIN_START.
+2024-11-06 03:10:46,665 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:10:47,950 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:10:48,540 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:10:49,567 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:10:50,601 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:10:53,031 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:10:55,511 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:11:00,893 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:11:02,711 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:03,740 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:04,815 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:05,886 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:06,948 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:08,017 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:09,066 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:10,072 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:11,135 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:12,149 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:13,155 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:14,198 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:15,267 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:16,308 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:20,211 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:21,287 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:22,358 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:11:23,598 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:11:24,224 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:11:25,252 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:11:26,280 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:11:29,681 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:11:33,717 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:11:38,400 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:11:40,285 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:41,355 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:42,411 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:43,431 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:44,501 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:45,508 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:46,550 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:47,605 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:48,660 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:49,731 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:50,786 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:51,834 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:52,876 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:53,952 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:55,723 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:56,764 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:57,841 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:58,862 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:11:59,923 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:04,104 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:05,131 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:06,180 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:07,237 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:08,299 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:09,347 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:10,397 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:11,437 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:12,486 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:16,541 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:17,632 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:19,333 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:12:20,578 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:12:21,203 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:12:22,243 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:12:23,263 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:12:26,063 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 120 毫秒.
+2024-11-06 03:12:33,853 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 132 毫秒.
+2024-11-06 03:12:37,777 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:12:39,657 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:40,731 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:41,782 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:42,824 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:43,832 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:44,900 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:45,907 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:46,962 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:48,032 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:49,102 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:50,149 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:51,212 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:53,713 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:54,784 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:56,483 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:57,504 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:58,588 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:12:59,650 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:00,720 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:04,765 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:05,796 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:06,853 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:07,928 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:08,955 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:10,005 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:11,045 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:12,079 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:13,134 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:14,191 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:15,241 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:16,275 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:17,337 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:18,386 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:19,448 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:23,211 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:24,287 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:25,335 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:27,095 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:13:28,344 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:13:28,982 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:13:30,003 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:13:31,030 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:13:36,085 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:13:42,263 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:13:44,148 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:45,204 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:46,251 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:47,335 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:48,384 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:49,431 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:50,459 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:51,529 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:52,535 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:53,585 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:54,639 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:55,730 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:56,779 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:57,855 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:58,924 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:13:59,989 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:01,044 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:02,084 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:03,125 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:04,168 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:05,209 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:08,868 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:09,889 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:10,938 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:12,020 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:13,076 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:14,132 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:15,188 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:16,257 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:17,265 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:18,320 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:19,333 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:20,341 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:21,390 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:22,459 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:23,520 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:24,583 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:25,623 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:26,680 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:27,736 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:28,790 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:29,840 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:33,090 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:34,151 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:35,207 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:36,263 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:37,367 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:14:38,604 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:14:39,207 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:14:40,221 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:14:41,242 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:14:43,498 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 110 毫秒.
+2024-11-06 03:14:48,616 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:14:54,422 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:14:56,254 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:57,311 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:58,366 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:14:59,422 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:00,456 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:01,504 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:02,561 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:03,568 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:04,602 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:05,674 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:06,713 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:07,761 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:08,832 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:09,879 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:12,118 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:13,136 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:15,129 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:16,186 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:17,193 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:18,255 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:19,309 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:20,366 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:21,448 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:27,141 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:28,151 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:29,162 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:30,240 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:31,296 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:32,336 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:33,493 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:38,883 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:15:39,946 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:15:41,244 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:15:41,885 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:15:42,929 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:15:43,960 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:15:51,155 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 139 毫秒.
+2024-11-06 03:15:55,918 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 110 毫秒.
+2024-11-06 03:15:59,480 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:16:02,643 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:16:04,494 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:05,501 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:06,509 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:07,585 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:08,593 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:09,613 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:10,626 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:11,681 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:12,709 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:13,730 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:14,799 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:15,799 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:16,868 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:17,931 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:20,245 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:21,335 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:22,340 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:23,424 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:24,430 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:26,175 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:27,216 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:28,244 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:29,292 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:30,313 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:31,382 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:32,409 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:33,445 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:34,509 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:39,980 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:41,048 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:42,083 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:43,104 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:44,179 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:45,242 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:46,311 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:47,353 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:48,391 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:49,464 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:50,499 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:51,568 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:52,625 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:58,020 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:16:59,083 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:00,144 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:01,164 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:02,192 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:03,261 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:04,291 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:05,359 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:06,407 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:07,491 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:08,505 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:09,561 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:10,630 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:11,700 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:12,767 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:13,768 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:14,775 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:15,789 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:16,852 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:17,900 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:18,983 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:20,011 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:21,035 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:22,000 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:17:23,000 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:17:23,681 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:17:24,723 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:17:25,743 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:17:33,505 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 118 毫秒.
+2024-11-06 03:17:38,245 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 109 毫秒.
+2024-11-06 03:17:47,907 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:17:49,741 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:50,817 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:51,885 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:52,920 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:53,974 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:54,997 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:56,003 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:57,003 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:58,071 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:17:59,121 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:00,149 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:01,198 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:02,253 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:03,258 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:04,337 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:05,426 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:06,495 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:07,544 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:08,614 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:09,648 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:10,717 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:11,766 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:16,619 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:17,689 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:18,723 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:19,765 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:20,836 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:21,841 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:22,868 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:23,884 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:28,779 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:29,848 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:30,905 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:31,909 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:32,967 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:34,023 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:35,077 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:36,147 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:37,216 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:38,271 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:39,341 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:40,406 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:41,472 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:42,514 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:43,577 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:44,652 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:45,703 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:46,785 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:47,820 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:48,849 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:49,867 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:50,924 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:51,994 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:53,028 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:18:53,722 [BotThread] INFO  Logger (null) - [游戏战斗] MAIN_START.
+2024-11-06 03:18:54,591 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:18:55,813 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:18:56,460 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:18:57,495 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:18:58,521 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:19:06,755 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:19:21,007 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 135 毫秒.
+2024-11-06 03:19:26,158 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 111 毫秒.
+2024-11-06 03:19:32,071 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:19:34,040 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:35,077 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:36,114 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:37,172 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:38,260 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:39,353 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:40,415 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:41,429 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:42,461 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:43,552 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:44,630 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:45,642 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:46,671 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:47,707 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:48,775 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:49,844 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:50,864 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:55,935 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:56,949 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:57,962 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:19:59,239 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:20:00,510 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:20:01,143 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:20:02,171 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:20:03,191 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:20:24,091 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:20:28,612 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:31,178 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:34,679 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:37,122 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:40,649 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:43,851 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:45,628 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:48,355 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:50,720 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:53,930 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:56,497 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:20:59,975 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:01,989 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:04,419 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:07,509 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:11,099 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:13,058 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at Triton.Game.Client.CardInteractPoint(Card card)
+   at Triton.Game.TritonHs.ChooseOneClickLeft()
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__23.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GameplaySceneMainAction>d__76.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<GamePlayAllProc>d__89.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneGamePlayProc>d__8e.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<SceneAllProc>d__99.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass32_0.Struct42.MoveNext()
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2)
+   at Buddy.Coroutines.Coroutine.Resume()
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick()
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:21:21,944 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:23,013 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:24,090 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:25,142 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:26,216 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:27,229 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:28,229 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:29,260 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:30,332 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:31,375 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:32,401 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:33,463 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:35,930 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:37,009 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:38,075 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:39,115 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:40,166 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:41,240 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:45,060 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:46,137 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:47,158 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:48,178 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:49,226 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:50,296 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:51,347 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:54,867 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:55,873 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:56,909 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:57,970 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:21:59,040 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:00,076 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:01,081 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:02,088 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:03,149 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:04,219 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:05,267 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:06,350 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:11,962 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:13,017 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:14,080 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:15,163 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:16,248 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:20,460 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:21,502 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:22,595 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:23,662 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:22:24,851 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:22:26,101 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:22:26,746 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:22:27,781 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:22:28,789 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:23:00,702 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:23:37,825 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:23:44,096 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:45,106 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:46,165 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:47,201 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:48,284 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:49,383 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:50,444 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:51,491 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:52,532 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:53,621 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:54,623 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:55,664 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:56,698 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:23:57,709 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:03,353 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:04,428 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:05,497 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:06,498 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:07,561 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:08,742 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:24:10,057 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:24:10,701 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:24:11,727 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:24:12,749 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:24:25,135 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 131 毫秒.
+2024-11-06 03:24:31,127 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 116 毫秒.
+2024-11-06 03:24:39,718 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 109 毫秒.
+2024-11-06 03:24:43,786 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:24:45,682 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:46,731 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:47,771 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:48,842 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:49,906 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:50,986 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:52,042 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:53,091 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:54,160 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:55,232 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:56,300 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:57,343 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:58,398 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:24:59,474 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:00,564 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:01,578 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:06,515 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:07,597 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:08,647 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:12,736 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:13,819 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:14,831 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:15,834 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:16,834 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:17,910 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:18,975 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:20,036 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:24,682 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:25,746 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:26,749 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:27,793 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:28,799 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:29,846 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:30,916 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:31,950 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:33,020 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:34,046 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:35,048 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:36,119 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:37,180 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:38,257 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:39,334 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:40,375 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:41,396 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:42,443 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:43,512 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:44,521 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:45,584 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:46,633 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:47,680 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:50,212 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:25:51,507 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:25:52,750 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:25:53,431 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:25:54,464 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:25:55,492 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:25:58,906 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 124 毫秒.
+2024-11-06 03:26:01,661 [BotThread] INFO  Logger (null) - 瞄准中...
+2024-11-06 03:26:08,165 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 116 毫秒.
+2024-11-06 03:26:11,493 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:26:14,205 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:15,213 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:16,248 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:17,331 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:18,379 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:19,440 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:20,468 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:21,525 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:22,595 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:23,643 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:24,651 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:25,725 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:26,746 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:27,816 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:28,824 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:29,843 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:30,919 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:31,968 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:33,051 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:34,081 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:35,135 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:40,006 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:41,071 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:42,155 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:43,174 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:44,232 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:45,313 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:46,370 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:49,765 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:50,794 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:51,835 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:52,848 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:26:53,739 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:26:54,996 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:26:55,615 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:26:56,641 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:26:57,663 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:27:01,320 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 117 毫秒.
+2024-11-06 03:27:04,128 [BotThread] INFO  Logger (null) - 瞄准中...
+2024-11-06 03:27:07,056 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 132 毫秒.
+2024-11-06 03:27:12,181 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:27:14,036 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:15,076 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:16,146 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:17,210 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:18,215 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:19,286 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:20,354 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:21,430 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:22,480 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:23,542 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:24,577 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:25,653 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:26,723 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:29,131 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:30,194 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:31,271 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:32,319 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:33,321 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:34,368 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:35,417 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:39,512 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:40,597 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:41,602 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:42,666 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:43,673 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:44,722 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:45,785 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:46,854 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:47,908 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:51,165 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:52,208 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:53,248 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:54,326 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:55,394 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:56,419 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:57,498 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:27:58,506 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:02,507 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:03,533 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:04,542 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:05,603 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:06,671 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:07,693 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:08,726 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:09,781 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:10,851 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:11,874 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:12,915 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:13,984 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:15,068 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:16,122 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:17,193 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:18,220 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:19,242 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:20,325 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:21,396 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:22,450 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:23,517 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:24,587 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:26,630 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:27,666 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:28,740 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:29,790 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:30,858 [BotThread] INFO  Logger (null) - [对手回合]
+2024-11-06 03:28:32,296 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:28:33,587 [BotThread] INFO  Logger (null) - [战斗中] 准备开始/结束回合.
+2024-11-06 03:28:34,192 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:28:35,220 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:28:36,241 [BotThread] DEBUG Logger (null) - [战斗中] 请稍等...
+2024-11-06 03:28:44,976 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 104 毫秒.
+2024-11-06 03:28:48,981 [BotThread] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 132 毫秒.
+2024-11-06 03:28:57,384 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:28:58,406 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:28:59,428 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:29:00,454 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:29:01,474 [BotThread] DEBUG Logger (null) - [战斗结束] 结束界面未显示.
+2024-11-06 03:29:02,167 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:03,219 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:04,300 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:05,377 [BotThread] INFO  Logger (null) - [游戏结束后]
+2024-11-06 03:29:05,377 [BotThread] INFO  Logger (null) - [天梯脚本设置] 立即投降 = True.
+2024-11-06 03:29:05,377 [BotThread] INFO  Logger (null) - [游戏结束后] 已设置下局立即投降，因为我们本局赢了，并且设置了保持排名(赢1投1).
+2024-11-06 03:29:05,392 [1] INFO  Logger (null) - [监控插件] 合计: 战令25级(28/675)(500/小时) 狂野青铜7 3星 3/9(胜33.33%) [0投] 
+2024-11-06 03:29:05,398 [BotThread] ERROR Logger (null) - 随机更换无法完成的每周任务97：在乱斗模式，竞技模式或酒馆战棋中完成5场对战。
+2024-11-06 03:29:05,399 [BotThread] INFO  Logger (null) - [游戏结束] Victory => PLAY_RANKED_WILD.
+2024-11-06 03:29:05,431 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [胜利]，点击继续...
+2024-11-06 03:29:08,196 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:09,266 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:10,365 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:11,485 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [胜利]，点击继续...
+2024-11-06 03:29:14,285 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:15,342 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:16,400 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:17,494 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [胜利]，点击继续...
+2024-11-06 03:29:20,281 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:21,375 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:22,425 [BotThread] DEBUG Logger (null) - [战斗结束] 请稍等...
+2024-11-06 03:29:23,537 [BotThread] INFO  Logger (null) - [战斗结束] 本局 [胜利]，点击继续...
+2024-11-06 03:29:28,910 [BotThread] INFO  Logger (null) - [卡组选择] 准备选择设置的卡组...
+2024-11-06 03:29:28,915 [BotThread] DEBUG Logger (null) - [卡组选择] 在第1页找到卡组"核心萨满祭司"，现在切换到页面1.
+2024-11-06 03:29:32,331 [BotThread] DEBUG Logger (null) - [卡组选择] 已选中卡组"核心萨满祭司".
+2024-11-06 03:29:32,337 [BotThread] INFO  Logger (null) - [卡组选择] 现在点击"开始"按钮.
+2024-11-06 03:29:36,638 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:38,735 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:40,797 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:42,853 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:44,923 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:51,430 [BotThread] INFO  Logger (null) - [游戏开局前]
+2024-11-06 03:29:51,431 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:53,526 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:29:55,590 [BotThread] INFO  Logger (null) - [正在匹配] 请稍等...
+2024-11-06 03:30:03,610 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:30:04,631 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:30:05,651 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:30:06,671 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:30:07,700 [BotThread] DEBUG Logger (null) - [对战准备] 准备工作未完成.
+2024-11-06 03:30:08,395 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:09,415 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:10,443 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:11,457 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:12,477 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:13,498 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:15,389 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:16,430 [BotThread] DEBUG Logger (null) - [对战准备] 请稍等...
+2024-11-06 03:30:17,492 [BotThread] INFO  Logger (null) - [日志档案:] 开始创建
+2024-11-06 03:30:17,493 [BotThread] INFO  Logger (null) - [日志档案:] 创建完成
+2024-11-06 03:30:17,524 [BotThread] INFO  Logger (null) - [对战准备] 立即投降开始...
+2024-11-06 03:30:32,566 [BotThread] INFO  Logger (null) - [Concede] An exception occurred. GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.ExternalProcessMemory.CallInjected[T](IntPtr address, CallingConvention callingConvention, Object[] args)
+   at Class82.method_47(IntPtr intptr_43, IntPtr intptr_44, Object[] object_0)
+   at Triton.Game.Mono.MonoClass.method_12(String string_4, Enum6[] enum6_0, Object[] object_0)
+   at Triton.Game.Mapping.GameState.Concede()
+   at Triton.Game.TritonHs.Concede(Boolean logReason)
+2024-11-06 03:30:47,579 [BotThread] ERROR Logger (null) - [CollectGarbage] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.ExternalProcessMemory.CallInjected[T](IntPtr address, CallingConvention callingConvention, Object[] args)
+   at Class82.iislOeGrZk(UInt32 uint_0)
+   at Triton.Game.Mono.MonoClass.smethod_4()
+   at Triton.Game.TritonHs.smethod_5(Boolean bool_3)
+2024-11-06 03:31:02,613 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:31:02,613 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:31:17,616 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:31:17,616 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:31:32,625 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:31:32,625 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:31:47,634 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:31:47,634 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:32:02,644 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:32:02,644 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:32:17,661 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:32:17,662 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:32:32,663 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:32:32,664 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:32:47,668 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:32:47,668 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:33:02,679 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:33:02,679 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:33:17,689 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:33:17,690 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:33:32,703 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:33:32,703 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:33:47,706 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:33:47,707 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:34:02,721 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:34:02,721 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:34:17,732 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:34:17,732 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:34:32,742 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:34:32,742 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:34:47,755 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:34:47,755 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:34:49,173 [1] INFO  Logger (null) - [Stop] Now requesting the BotThread to stop.
+2024-11-06 03:34:52,197 [1] ERROR Logger (null) - Please wait for the current bot to stop before closing the program.
+2024-11-06 03:34:54,290 [1] ERROR Logger (null) - Please wait for the current bot to stop before closing the program.
+2024-11-06 03:34:59,385 [1] ERROR Logger (null) - Please wait for the current bot to stop before closing the program.
+2024-11-06 03:35:02,770 [BotThread] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.CkpSupdCuD(IRunnable irunnable_0)
+2024-11-06 03:35:02,770 [BotThread] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2024-11-06 03:35:06,364 [24] INFO  Logger (null) - [ProcessExited] The game process has closed. Hearthbuddy will now close.

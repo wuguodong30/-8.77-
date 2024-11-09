@@ -1,0 +1,51 @@
+2024-10-19 12:00:19,034 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: E:\Files\HearthScript_V8.7.7_3\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.19045
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-10-19 12:00:19,052 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-10-19 12:00:19,052 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-10-19 12:00:19,053 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-10-19 12:00:19,053 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-10-19 12:00:19,057 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.
+2024-10-19 12:00:19,315 [1] INFO  Logger (null) - Prerequisite check complete!
+2024-10-19 12:00:19,336 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2024-10-19 12:00:19,353 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2024-10-19 12:00:19,356 [1] INFO  Logger (null) - [AuthRegion] China.
+2024-10-19 12:00:19,600 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2024-10-19 12:00:19,601 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
+2024-10-19 12:00:19,624 [1] INFO  Logger (null) - Hearthbuddy [0.0.0.0] is up to date!
+2024-10-19 12:00:20,093 [1] INFO  Logger (null) - 检测到炉石进程！
+2024-10-19 12:00:21,548 [10] INFO  Logger (null) - 绑定到炉石进程！
+2024-10-19 12:00:21,609 [10] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-10-19 12:00:21,610 [10] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2024-10-19 12:00:21,611 [10] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-10-19 12:00:21,611 [10] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = True.
+2024-10-19 12:00:21,612 [10] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-10-19 12:00:21,613 [10] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-10-19 12:00:21,613 [10] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-10-19 12:00:21,613 [10] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-10-19 12:00:21,614 [10] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-10-19 12:00:21,615 [10] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-10-19 12:00:21,615 [10] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-10-19 12:00:21,615 [10] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-10-19 12:00:21,615 [10] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-10-19 12:00:21,617 [10] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-10-19 12:00:21,639 [10] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-10-19 12:00:21,639 [10] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2024-10-19 12:00:21,640 [10] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-10-19 12:00:21,640 [10] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-10-19 12:00:21,641 [10] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-10-19 12:00:21,641 [10] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-10-19 12:00:21,641 [10] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-10-19 12:00:21,641 [10] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-10-19 12:00:21,642 [10] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-10-19 12:00:21,642 [10] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-10-19 12:00:21,642 [10] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-10-19 12:00:21,643 [10] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-10-19 12:00:21,657 [1] DEBUG Logger (null) - Current bot set to 天梯脚本.

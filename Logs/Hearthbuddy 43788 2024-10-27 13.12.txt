@@ -1,0 +1,83 @@
+2024-10-27 05:12:49,216 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: D:\脚本\炉石传说\HearthScript_V8.7.7_3\<ExeName>
+
+OS Name: Microsoft Windows 11 专业版
+OS Version: 10.0.22631
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-10-27 05:12:49,234 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-10-27 05:12:49,234 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-10-27 05:12:49,234 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-10-27 05:12:49,234 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-10-27 05:12:49,238 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.
+2024-10-27 05:12:49,459 [1] INFO  Logger (null) - Prerequisite check complete!
+2024-10-27 05:12:49,480 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2024-10-27 05:12:49,501 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2024-10-27 05:12:49,507 [1] INFO  Logger (null) - [AuthRegion] China.
+2024-10-27 05:12:49,696 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2024-10-27 05:12:49,696 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
+2024-10-27 05:12:49,727 [1] INFO  Logger (null) - Hearthbuddy [0.0.0.0] is up to date!
+2024-10-27 05:12:50,178 [1] INFO  Logger (null) - 检测到炉石进程！
+2024-10-27 05:12:50,740 [12] INFO  Logger (null) - 绑定到炉石进程！
+2024-10-27 05:12:50,804 [12] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 狂野.
+2024-10-27 05:12:50,805 [12] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 请选择卡组.
+2024-10-27 05:12:50,806 [12] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-10-27 05:12:50,806 [12] INFO  Logger (null) - [天梯脚本设置] 需要缓存卡组 = True.
+2024-10-27 05:12:50,806 [12] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-10-27 05:12:50,806 [12] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-10-27 05:12:50,807 [12] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-10-27 05:12:50,807 [12] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-10-27 05:12:50,808 [12] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-10-27 05:12:50,808 [12] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-10-27 05:12:50,808 [12] INFO  Logger (null) - [天梯脚本设置] 立即投降 = False.
+2024-10-27 05:12:50,810 [12] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-10-27 05:12:50,810 [12] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-10-27 05:12:50,810 [12] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-10-27 05:12:50,833 [12] INFO  Logger (null) - [天梯脚本设置] 对战模式 = 标准.
+2024-10-27 05:12:50,833 [12] INFO  Logger (null) - [天梯脚本设置] 卡组名称 = 元素萨.
+2024-10-27 05:12:50,834 [12] INFO  Logger (null) - [天梯脚本设置] 自动打招呼 = False.
+2024-10-27 05:12:50,834 [12] INFO  Logger (null) - [天梯脚本设置] 炉石窗口宽度 = 144.
+2024-10-27 05:12:50,834 [12] INFO  Logger (null) - [天梯脚本设置] 炉石窗口高度 = 108.
+2024-10-27 05:12:50,834 [12] INFO  Logger (null) - [天梯脚本设置] 自动设置炉石窗口宽高 = True.
+2024-10-27 05:12:50,835 [12] INFO  Logger (null) - [天梯脚本设置] 保持排名(赢1投1) = False.
+2024-10-27 05:12:50,835 [12] INFO  Logger (null) - [天梯脚本设置] 普通互投拿千胜头像 = False.
+2024-10-27 05:12:50,835 [12] INFO  Logger (null) - [天梯脚本设置] 急速投降至互投区 = False.
+2024-10-27 05:12:50,835 [12] INFO  Logger (null) - [天梯脚本设置] 投降最小延时(ms) = 1500.
+2024-10-27 05:12:50,836 [12] INFO  Logger (null) - [天梯脚本设置] 投降最大延时(ms)  = 3000.
+2024-10-27 05:12:50,836 [12] INFO  Logger (null) - [天梯脚本设置] 全局动画速度(齿轮) = 1.0.
+2024-10-27 05:12:50,972 [1] DEBUG Logger (null) - Current bot set to 天梯脚本.
+2024-10-27 05:12:59,391 [12] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨通用丨不设惩罚.
+2024-10-27 05:12:59,393 [12] INFO  Logger (null) - [默认策略设置] AI值 = 3000.
+2024-10-27 05:12:59,393 [12] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-10-27 05:12:59,393 [12] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-10-27 05:12:59,394 [12] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-10-27 05:12:59,413 [12] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-10-27 05:12:59,413 [12] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-10-27 05:12:59,414 [12] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-10-27 05:12:59,414 [12] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-10-27 05:12:59,415 [12] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-10-27 05:12:59,415 [12] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-10-27 05:12:59,418 [12] INFO  Logger (null) - [默认策略设置] 天梯对战策略 = 丨标准丨元素法.
+2024-10-27 05:12:59,420 [12] INFO  Logger (null) - [默认策略设置] AI值 = 300.
+2024-10-27 05:12:59,420 [12] INFO  Logger (null) - [默认策略设置] 最大考虑步数 = 12.
+2024-10-27 05:12:59,420 [12] INFO  Logger (null) - [默认策略设置] 每步最大保留场面数 = 60.
+2024-10-27 05:12:59,421 [12] INFO  Logger (null) - [默认策略设置] 防奥秘 = False.
+2024-10-27 05:12:59,421 [12] INFO  Logger (null) - [默认策略设置] 不生成对战日志 = True.
+2024-10-27 05:12:59,421 [12] INFO  Logger (null) - [默认策略设置] 打印出牌惩罚 = False.
+2024-10-27 05:12:59,421 [12] INFO  Logger (null) - [默认策略设置] 是否打印自定义惩罚 = False.
+2024-10-27 05:12:59,422 [12] INFO  Logger (null) - [默认策略设置] 下回合斩杀本回合打脸 = False.
+2024-10-27 05:12:59,422 [12] INFO  Logger (null) - [默认策略设置] 打脸阈值 = 27.
+2024-10-27 05:12:59,422 [12] INFO  Logger (null) - [默认策略设置] 打脸奖励 = 0.
+2024-10-27 05:13:00,142 [1] DEBUG Logger (null) - Current routine set to 天梯策略.
+2024-10-27 05:13:00,155 [12] DEBUG Logger (null) - [自动停止插件] 初始化
+2024-10-27 05:13:00,175 [12] DEBUG Logger (null) - [监控插件] 初始化
+2024-10-27 05:13:00,199 [12] DEBUG Logger (null) - [统计插件] 初始化
+2024-10-27 05:13:00,219 [12] DEBUG Logger (null) - [任务插件] 初始化
+2024-10-27 05:13:00,227 [12] DEBUG Logger (null) - [自动停止插件] 启用
+2024-10-27 05:13:00,263 [12] DEBUG Logger (null) - [监控插件] 启用
+2024-10-27 05:13:00,291 [12] DEBUG Logger (null) - [统计插件] 启用
+2024-10-27 05:13:00,318 [12] DEBUG Logger (null) - [任务插件] 启用
+2024-10-27 05:13:00,409 [12] ERROR Logger (null) - 炉石兄弟V8.7.7--[2024-10-10]--琴弦上的宇宙+Bald9

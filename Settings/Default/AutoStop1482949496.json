@@ -1,0 +1,10 @@
+{
+  "Wins": 4,
+  "Losses": 4,
+  "StopGameCount": 1,
+  "StopWinCount": 1,
+  "StopLossCount": 1,
+  "StopAfterXGames": false,
+  "StopAfterXWins": false,
+  "StopAfterXLosses": false
+}

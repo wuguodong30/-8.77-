@@ -1,0 +1,26 @@
+{
+  "LastDeckCachePid": 2332,
+  "AllowExternalAccess": false,
+  "ShowGlobalTab": false,
+  "ShowConfigurationTab": false,
+  "ShowDevTab": false,
+  "ShowToolsTab": false,
+  "TopRowDefinitionHeight": "*",
+  "BottomRowDefinitionHeight": "*",
+  "SplitterRowDefinitionHeight": "Auto",
+  "MsBetweenTicks": 20,
+  "InputEventMsDelay": 5,
+  "MsBetweenGuiTicks": 1000,
+  "WindowX": 798,
+  "WindowY": 166,
+  "WindowWidth": 613,
+  "WindowHeight": 697,
+  "LastBot": "天梯脚本",
+  "LastRoutine": "天梯策略",
+  "EnabledPlugins": [
+    "自动停止插件",
+    "监控插件",
+    "统计插件",
+    "任务插件"
+  ]
+}

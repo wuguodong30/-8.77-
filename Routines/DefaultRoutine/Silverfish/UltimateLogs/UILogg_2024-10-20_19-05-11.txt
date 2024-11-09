@@ -1,0 +1,432 @@
+NewGame
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:06:02 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 1 1 1 3 1 4
+cut to len 去重从6 到 6
+cut to len 去重从16 到 8
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 89
+bestplay.playactions ################################# START
+打出 幸运币 目标 空
+打出 随船外科医师(1,2) 目标 空
+bestplay.playactions ################################# END
+calculated 0.1911579
+打出 幸运币 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:06:04 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 2 1 1 1 1 1
+cut to len 去重从8 到 8
+cut to len 去重从12 到 10
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 124
+bestplay.playactions ################################# START
+打出 随船外科医师(1,2) 目标 空
+打出 心灵按摩师(2,4) 目标 空
+bestplay.playactions ################################# END
+calculated 0.1527056
+打出 随船外科医师(1,2) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:06:13 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变37 34 32 32 0 0 0 0
+minions count or hand changed
+cut to len 去重从2 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 126
+bestplay.playactions ################################# START
+打出 心灵按摩师(2,4) 目标 空
+bestplay.playactions ################################# END
+calculated 0.0878647
+打出 心灵按摩师(2,4) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:06:16 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变38 37 32 32 0 0 0 0
+noRecalcNeeded!!!-----------------------------------
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:08 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 2 -100 2 1 2 1
+cut to len 去重从21 到 21
+cut to len 去重从277 到 189
+cut to len 去重从326 到 235
+cut to len 去重从175 到 107
+cut to len 去重从124 到 70
+cut to len 去重从66 到 26
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 328
+bestplay.playactions ################################# START
+打出 精神灼烧 目标 异教低阶牧师(3,0)
+使用随从 随船外科医师(1,1) 攻击 鱼人木乃伊(1,0)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(25)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(23)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(21)
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 1.1494855
+打出 精神灼烧 目标 异教低阶牧师(3,0)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:12 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变38 38 34 35 0 0 0 0
+minions count or hand changed
+cut to len 去重从8 到 8
+cut to len 去重从39 到 22
+cut to len 去重从74 到 31
+cut to len 去重从70 到 24
+cut to len 去重从28 到 8
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 308
+bestplay.playactions ################################# START
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(25)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(23)
+使用随从 海盗帕奇斯(1,1) 攻击 鱼人木乃伊(1,0)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(21)
+使用随从 随船外科医师(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 0.1792119
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(25)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:14 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从8 到 8
+cut to len 去重从36 到 20
+cut to len 去重从52 到 20
+cut to len 去重从24 到 7
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 276
+bestplay.playactions ################################# START
+使用随从 随船外科医师(1,1) 攻击 鱼人木乃伊(1,0)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(23)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(21)
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 0.133244
+使用随从 随船外科医师(1,1) 攻击 鱼人木乃伊(1,0)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:16 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从3 到 3
+cut to len 去重从6 到 3
+cut to len 去重从3 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 255
+bestplay.playactions ################################# START
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(23)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(21)
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 0.093845
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(23)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:18 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从2 到 2
+cut to len 去重从2 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 223
+bestplay.playactions ################################# START
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(21)
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 0.0743841
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(21)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:20 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从1 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 192
+bestplay.playactions ################################# START
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+bestplay.playactions ################################# END
+calculated 0.0495101
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(20)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:22 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 170
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0294483
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:42 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 3 -100 3 2 3 2
+cut to len 去重从8 到 8
+cut to len 去重从39 到 30
+cut to len 去重从98 到 40
+cut to len 去重从95 到 30
+cut to len 去重从46 到 14
+cut to len 去重从8 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 446
+bestplay.playactions ################################# START
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(19)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(17)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(15)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(13)
+打出 暮光欺诈者(2,3) 目标 空
+bestplay.playactions ################################# END
+calculated 0.6729068
+使用随从 海盗帕奇斯(1,2) 攻击 敌方英雄(19)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:45 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从7 到 7
+cut to len 去重从25 到 20
+cut to len 去重从46 到 18
+cut to len 去重从28 到 12
+cut to len 去重从6 到 2
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 421
+bestplay.playactions ################################# START
+打出 纸艺天使(2,3) 目标 空
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(17)
+使用英雄技能 目标 敌方英雄(15)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(13)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(11)
+bestplay.playactions ################################# END
+calculated 0.3993584
+打出 纸艺天使(2,3) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:48 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(17)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:50 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从3 到 3
+cut to len 去重从6 到 3
+cut to len 去重从3 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 390
+bestplay.playactions ################################# START
+使用英雄技能 目标 敌方英雄(15)
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(13)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(11)
+bestplay.playactions ################################# END
+calculated 0.0888843
+使用英雄技能 目标 敌方英雄(15)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:53 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从2 到 2
+cut to len 去重从2 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 375
+bestplay.playactions ################################# START
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(13)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(11)
+bestplay.playactions ################################# END
+calculated 0.0703973
+使用随从 心灵按摩师(2,4) 攻击 敌方英雄(13)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:55 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从1 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 294
+bestplay.playactions ################################# START
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(11)
+bestplay.playactions ################################# END
+calculated 0.0459142
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(11)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:07:57 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 29 28 0 0 0 0 False False False False False False
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 212
+bestplay.playactions ################################# START
+bestplay.playactions ################################# END
+calculated 0.0304722
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:23 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 4 -100 4 3 4 3
+cut to len 去重从11 到 11
+cut to len 去重从101 到 81
+cut to len 去重从501 到 323
+cut to len 去重从485 到 288
+cut to len 去重从436 到 230
+cut to len 去重从372 到 200
+cut to len 去重从240 到 91
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22712
+bestplay.playactions ################################# START
+使用英雄技能 目标 复活的步兵(1,1)
+使用随从 海盗帕奇斯(1,1) 攻击 复活的步兵(1,0)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(9)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(7)
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(5)
+打出 暗影投弹手(3,1) 目标 空
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 3.9240743
+使用英雄技能 目标 复活的步兵(1,1)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:30 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 28 26 0 0 0 0 False False False False False False
+cut to len 去重从8 到 8
+cut to len 去重从66 到 57
+cut to len 去重从456 到 269
+cut to len 去重从379 到 193
+cut to len 去重从333 到 135
+cut to len 去重从258 到 98
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22699
+bestplay.playactions ################################# START
+使用随从 海盗帕奇斯(1,1) 攻击 复活的步兵(1,0)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(9)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(7)
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(5)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(3)
+打出 暗影投弹手(3,1) 目标 空
+bestplay.playactions ################################# END
+calculated 3.1624312
+使用随从 海盗帕奇斯(1,1) 攻击 复活的步兵(1,0)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:35 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 28 26 0 0 0 0 False False False False False False
+cut to len 去重从10 到 10
+cut to len 去重从77 到 61
+cut to len 去重从348 到 156
+cut to len 去重从334 到 130
+cut to len 去重从258 到 98
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22679
+bestplay.playactions ################################# START
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(9)
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(7)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(5)
+打出 暗影投弹手(3,1) 目标 空
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 2.0756849
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(9)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:39 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 28 26 0 0 0 0 False False False False False False
+cut to len 去重从10 到 10
+cut to len 去重从74 到 55
+cut to len 去重从285 到 130
+cut to len 去重从252 到 110
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22600
+bestplay.playactions ################################# START
+打出 暗影投弹手(3,1) 目标 空
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(4)
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(2)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 1.0966142
+打出 暗影投弹手(3,1) 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:45 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 25 23 0 0 0 0 False False False False False False
+cut to len 去重从8 到 8
+cut to len 去重从42 到 32
+cut to len 去重从119 到 65
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22597
+bestplay.playactions ################################# START
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(4)
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(2)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 0.5720479
+使用随从 空降歹徒(2,3) 攻击 敌方英雄(4)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:47 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 25 23 0 0 0 0 False False False False False False
+cut to len 去重从6 到 6
+cut to len 去重从22 到 20
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22517
+bestplay.playactions ################################# START
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(2)
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 0.290529
+使用随从 纸艺天使(2,3) 攻击 敌方英雄(2)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 19:08:50 V2021.09.13 丨狂野丨快攻暗牧 6000 maxCal 60 maxWide 6000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+ownhero changed 25 23 0 0 0 0 False False False False False False
+cut to len 去重从4 到 4
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22437
+bestplay.playactions ################################# START
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(0)
+bestplay.playactions ################################# END
+calculated 0.1113297
+使用随从 心灵按摩师(2,3) 攻击 敌方英雄(0)

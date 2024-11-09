@@ -1,0 +1,16 @@
+{
+  "ConstructedGameRule": 1,
+  "ConstructedCustomDeck": "元素萨",
+  "LastDeckId": 0,
+  "AutoGreet": true,
+  "ReleaseLimitW": 144,
+  "ReleaseLimitH": 108,
+  "ReleaseLimit": true,
+  "AutoConcedeAfterConstructedWin": false,
+  "NormalConcede": false,
+  "ForceConcedeAtMulligan": false,
+  "AutoConcedeMinDelayMs": 1500,
+  "AutoConcedeMaxDelayMs": 3000,
+  "SliderShopSpeedRatioText": "1.0",
+  "SliderShopSpeedRatio": 1.0
+}

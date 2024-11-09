@@ -1,0 +1,21 @@
+2024-10-19 11:51:15,135 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: E:\Files\HearthScript_V8.7.7_3\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.19045
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-10-19 11:51:15,152 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-10-19 11:51:15,153 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-10-19 11:51:15,153 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-10-19 11:51:15,153 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-10-19 11:51:15,158 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.
+2024-10-19 11:51:15,415 [1] INFO  Logger (null) - Prerequisite check complete!
+2024-10-19 11:51:15,434 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2024-10-19 11:51:15,454 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2024-10-19 11:51:15,459 [1] INFO  Logger (null) - [AuthRegion] China.
+2024-10-19 11:51:15,627 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 5
+2024-10-19 11:51:15,627 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 20
